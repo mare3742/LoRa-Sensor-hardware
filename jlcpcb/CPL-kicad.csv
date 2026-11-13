@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,47μF,C_1206_3216Metric,100.965,-92.71,-90,top
+C2,10μF,C_0603_1608Metric,129.54,-58.42,-90,top
+C3,10μF,C_0603_1608Metric,103.505,-67.835,-90,top
+C4,0.1μF,C_0402_1005Metric,127,-57.94,-90,top
+J1,E220_main,PinSocket_1x07_P2.54mm_Vertical,104.14,-83.82,0,top
+J10,output1,PinSocket_1x05_P2.54mm_Vertical,95.25,-87.63,90,top
+J11,output2,PinSocket_1x04_P2.54mm_Vertical,93.98,-83.82,90,top
+J2,ESP32_1,PinSocket_1x07_P2.54mm_Vertical,109.245,-62.25,0,top
+J3,ESP32_2,PinSocket_1x07_P2.54mm_Vertical,124.485,-62.25,0,top
+J4,E220_12pin-15pin,PinSocket_1x04_P1.27mm_Vertical,109.805,-93.08,90,top
+J5,bat,PinSocket_1x02_P2.54mm_Vertical,91.465,-76.22,0,top
+J6,SHT35,PinSocket_1x04_P2.00mm_Vertical,100.965,-56.88,0,top
+J7,SCD30,PinSocket_1x04_P2.00mm_Vertical,91.815,-56.88,0,top
+J8,DS18B20,PinSocket_1x03_P2.54mm_Vertical,134.62,-67.31,0,top
+J9,E220_sub,PinSocket_1x03_P2.54mm_Vertical,135.64,-79.3,0,top
+Q2,AO3401A,SOT-23,100.0275,-66.565,180,top
+R1,10kΩ,C_0402_1005Metric,96.2175,-66.565,-90,top
+U1,XC6206PxxxMR,SOT-23-3,90.9375,-66.565,0,top
